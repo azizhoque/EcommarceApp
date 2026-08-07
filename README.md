@@ -1,2 +1,2 @@
 # DemoApp
-It is a Demo fro practice purpose 
+It is a Ecommarce Application
